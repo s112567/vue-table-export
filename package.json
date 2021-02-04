@@ -1,5 +1,5 @@
 {
-  "name": "cloudshop/vue-table-export",
+  "name": "@cloudshop/vue-table-export",
   "description": "vue plugin to export data to text | json | csv | xlsx",
   "version": "1.0.0",
   "author": "cloudshop <1049347793@qq.com>",
